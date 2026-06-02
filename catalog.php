@@ -72,6 +72,5 @@ document.querySelectorAll('.category a').forEach(a => {
     })
 })
 </script>
-
 </body>
 </html>
